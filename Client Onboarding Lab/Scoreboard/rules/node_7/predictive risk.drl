@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>predictive risk</name>
+  <uuid>fa2f04f3-46da-42a9-93d9-aebec50e8dbb</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to the
+machine
+learning scoreboard computed
+from
+ClientInformation being Client ,
+Industry being
+Industry ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
